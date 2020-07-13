@@ -30,7 +30,7 @@ main {
 }
 
 .part2 {
-    background: url('../img/brown-book-page-1112048.jpg');
+    background: url('img/brown-book-page-1112048.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: left;
